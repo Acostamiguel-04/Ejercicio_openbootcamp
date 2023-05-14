@@ -8,10 +8,10 @@ public class Main {
 
 
 
-        Auto miAuto= new Auto();
-        miAuto.sumarpuertas();
+        Auto miCoche= new Auto();
+        miCoche.sumarpuertas();
 
-        System.out.println("La cantidad de las puerta son: " +miAuto.puertas);
+        System.out.println("La cantidad de las puerta son: " +miCoche.puertas);
         }
 
 
